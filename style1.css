@@ -1,0 +1,35 @@
+#subspt{
+    font-size: 10px;
+    text-shadow: 3px 4px 8px  red;
+   
+}
+.rightnav{
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#side-info{
+    padding: 25px;
+    margin-top: 5px;
+    margin-left: 20px;
+    background-color: rgb(75, 173, 235);
+    box-shadow: 5px 5px 10px 5px gray;
+}
+.li-item{
+    font-size: 15px;
+}
+body{
+    background-color: whitesmoke;
+}
+#namediv{
+    background-color: cadetblue;
+    height: 40px;
+    width: 100%;
+    opacity: 0.8;
+    text-align: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#prof-form{
+    margin-top: 50px;
+}
+
